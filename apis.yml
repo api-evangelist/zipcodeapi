@@ -39,7 +39,6 @@ apis:
   - name: ZipCodeAPI
     description: "US zip code distance, radius and location API"
     humanURL: https://www.zipcodeapi.com
-    baseURL: https://www.zipcodeapi.com
     tags:
       - Geocoding
     properties:
